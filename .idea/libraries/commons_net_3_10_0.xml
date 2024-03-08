@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-net-3.10.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Telnet/lib/commons-net-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Telnet/lib/org.json.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
